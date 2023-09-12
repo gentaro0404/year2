@@ -30,7 +30,7 @@ class osi_phsyical():
 ```
 
 ### Paper Programming
-![Paper Programming]()
+![Paper Programming](quiz075.png)
 
 ### Evidence
-![Evidence]()
+![Evidence](quiz075_.PNG)
