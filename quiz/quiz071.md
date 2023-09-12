@@ -8,7 +8,7 @@ Create the code for the IPv6 machine
 import random
 
 
-class ipv6machine():
+class ipv6machine:
     def __init__(self, number):
         self.number_wanted = int(number)
 
@@ -67,9 +67,9 @@ class ipv6machine():
             output.add(address)
         return output
 
-def test_ipv6machine():
-    test = ipv6machine(10000000)
-    print(test.create_ipv6_address_v2())
+
+test1 = ipv6machine(10)
+print(test1.create_ipv6_address_v2())
 ```
 
 ## Paper Programming
