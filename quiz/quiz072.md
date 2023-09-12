@@ -28,6 +28,7 @@ print(boi.final())
 ```
 
 ## Paper Programming
+![](quiz072_.PNG)
 ## Evidence
 ![](quiz072.png)
 
