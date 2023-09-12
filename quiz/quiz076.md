@@ -46,7 +46,7 @@ print(boi.error_check())
 ```
 
 ### Paper Programming
-![Paper Programming]()
+![Paper Programming](quiz076.png)
 
 ### Evidence
-![Evidence]()
+![Evidence](quiz076_.PNG)
