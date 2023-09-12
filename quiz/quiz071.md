@@ -73,7 +73,7 @@ print(test1.create_ipv6_address_v2())
 ```
 
 ## Paper Programming
-![](quiz071_.jpg)
+![](quiz071_.PNG)
 
 ## Evidence
 ![](quiz071.png)
