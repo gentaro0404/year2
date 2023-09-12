@@ -23,3 +23,4 @@ for _ in range(10):
 ## Paper Programming
 
 ## Evidence
+![](quiz070.png)
