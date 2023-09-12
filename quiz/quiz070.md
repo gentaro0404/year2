@@ -17,6 +17,7 @@ generator = ipv4machine_bernard()
 for _ in range(10):
     print(next(generator))
 
+
 ```
 
 ## Paper Programming
