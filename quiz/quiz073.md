@@ -40,7 +40,8 @@ class ip_tables():
 ```
 
 ## Paper Programming
-
+![](quiz073_.PNG)
 ## Evidence
+![](quiz073.png)
 
 
