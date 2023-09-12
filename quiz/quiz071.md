@@ -75,3 +75,4 @@ print(test1.create_ipv6_address_v2())
 ## Paper Programming
 
 ## Evidence
+![](quiz071.png)
