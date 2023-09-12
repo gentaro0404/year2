@@ -21,6 +21,6 @@ for _ in range(10):
 ```
 
 ## Paper Programming
-
+![](quiz070_.jpg)
 ## Evidence
 ![](quiz070.png)
