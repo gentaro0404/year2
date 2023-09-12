@@ -28,7 +28,7 @@ print(boi2.check_parity())
 ```
 
 ### Paper Programming
-![Paper Programming](quiz077.png)
+![Paper Programming](quiz77_.jpg)
 
 ### Evidence
-![Evidence](quiz77_.jpg)
+![Evidence](quiz077.png)
