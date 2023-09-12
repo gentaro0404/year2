@@ -27,7 +27,7 @@ print(build_data_pkg("80:90:00:00:00:00","192.168.3.3","80:90:00:00:00:01","192.
 ```
 
 ### Paper Programming
-![Paper Programming]()
+![Paper Programming](quiz074.png)
 
 ### Evidence
-![Evidence]()
+![Evidence](quiz074_.PNG)
